@@ -1,4 +1,6 @@
-# Tayademukesh65![Screenshot 2023-09-14 190530](https://github.com/iamukesh65/Tayademukesh65/assets/144988735/d9284bc3-2c68-4a7f-864d-c666819b640c)
+# Tayademukesh65
+University Management System Java Project deals with the maintenance of student, faculty and other information with in the university in a centralized database where you can add, view and update Information
+![Screenshot 2023-09-14 190530](https://github.com/iamukesh65/Tayademukesh65/assets/144988735/d9284bc3-2c68-4a7f-864d-c666819b640c)
 ![Screenshot 2023-09-14 190456](https://github.com/iamukesh65/Tayademukesh65/assets/144988735/fa12ca72-e81f-4c35-95aa-6e9ba1dcb0f7)
 ![Screenshot 2023-09-14 190430](https://github.com/iamukesh65/Tayademukesh65/assets/144988735/1b2d5e08-fa23-40b3-9582-0850597bfa55)
 ![Screenshot 2023-09-14 190342](https://github.com/iamukesh65/Tayademukesh65/assets/144988735/d58e7c8d-88fe-47e9-8800-587664a8e969)
